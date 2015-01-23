@@ -525,7 +525,7 @@ footer a + a {
   padding: .2em;
 }
 
-.two.columns .column, .column-two {
+.columns.two .column, .column-two {
   width: 50%;
 }
 

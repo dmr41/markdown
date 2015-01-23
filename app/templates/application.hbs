@@ -1,3 +1,17 @@
-<h2 id='title'>Welcome to Ember.js</h2>
+<header>
+  <div class=".container">
+    <h2 class="title">Welcome to David's Markdown hideaway!</h2>
+  </div>
+</header>
 
-{{outlet}}
+<main>
+  <div class=".container">
+    {{outlet}}
+  </div>
+</main>
+
+<footer>
+  <div class=".container">
+    {{#link-to 'index'}}<span>Home</span>{{/link-to}}
+  </div>
+</footer>

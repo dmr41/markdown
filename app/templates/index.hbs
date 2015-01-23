@@ -1,0 +1,16 @@
+
+<section class="columns two">
+  <div class="column">
+    <h2>Markdown</h2>
+    {{textarea value=postContent cols="40" rows="25"}}
+  </div>
+
+  <div class="column">
+    <h2>HTML</h2>
+    <p>
+      {{showdown-addon postContent}}
+    </p>
+  </div>
+</section>
+
+{{outlet}}

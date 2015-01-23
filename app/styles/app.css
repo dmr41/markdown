@@ -1,3 +1,4 @@
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 /**
@@ -447,7 +448,7 @@ th {
 
 html, body, footer {
   background: #88A0A8;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;;
 }
 
 header {

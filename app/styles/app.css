@@ -445,12 +445,6 @@ th {
 
 /*boilerplate above here...*/
 
-/*$color1: #3f7cac;
-$color2: #95afba;
-$color3: #bdc4a7;
-$color4: #d5e1a3;
-$color5: #e2f89c;*/
-
 html, body, footer {
   background: #88A0A8;
   font-family: Raleway;
@@ -538,9 +532,3 @@ textarea {
   max-width: 100%;
 
 }
-
-  /*background: #546A76;
-  background: #88A0A8;
-  background: #B4CEB3;
-  background: #DBD3C9;
-  background: #FAD4D8;*/
